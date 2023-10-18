@@ -1,6 +1,9 @@
 # UniversalRobots-Beckhoff
 Example how to use Universal Robots in combination with a Beckhoff PLC via Profinet
 
+Requirements:
+- Twin Cat 3
+
 This example shows you how to:
 
 - Connect an Universal Robots via Profinet with a Beckhoff PLC
