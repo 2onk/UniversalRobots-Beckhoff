@@ -12,5 +12,7 @@ This example shows you how to:
 - how to use Interpreter mode
 - how to use Dashboard Server
 
-Informations about how to set up a new project can be found in the .pdf.
+Informations about how to set up a new project can be found in the .pdf or .pptx.
+I would recommend to use the .pptx beacause of the sections which makes it much easier readable.
+
 Also further descripton how to start with this example.
