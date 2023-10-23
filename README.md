@@ -12,5 +12,5 @@ This example shows you how to:
 - how to use Interpreter mode
 - how to use Dashboard Server
 
-Informations about how to set up a new project can be found in the .ppt.
+Informations about how to set up a new project can be found in the .pdf.
 Also further descripton how to start with this example.
